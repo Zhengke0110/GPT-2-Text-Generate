@@ -5,6 +5,3 @@
 **/*.txt
 
 **/*.pkl
-
-**/*.model
-**/*.vocab
